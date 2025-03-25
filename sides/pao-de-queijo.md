@@ -1,7 +1,7 @@
 # Pão de Queijo Recipe
 
 ## Ingredients:
-- 2 cups of tapioca flour (sweet starch)
+- 2 cups of tapioca flour
 - 1 cup of milk
 - 1/2 cup of oil
 - 1 teaspoon of salt
