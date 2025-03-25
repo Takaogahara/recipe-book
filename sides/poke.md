@@ -1,6 +1,5 @@
 # Poke recipe
 
-
 ## Ingredients
 
 - avocado
