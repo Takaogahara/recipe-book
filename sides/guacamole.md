@@ -1,8 +1,6 @@
 # Guacamole recipe
 
-
 ## Ingredients
-
 - 2 avocados
 - 1 chili
 - 1 lime
@@ -12,7 +10,6 @@
 
 
 ## Instructions
-
 - chop avocados
 - chop onion
 - chop chili
