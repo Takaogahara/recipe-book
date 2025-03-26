@@ -1,8 +1,6 @@
 # Pasta boscaiola recipe
 
-
 ## Ingredients
-
 - rigatoni
 - pancetta
 - peas
@@ -11,5 +9,4 @@
 
 
 ## Instructions
-
 TODO: these are missing
