@@ -1,8 +1,6 @@
 # Vegetarian lasagna recipe
 
-
 ## Ingredients
-
 - **9-12** no-boil lasagna noodles
 - **1** large jar (about 24 oz) of marinara sauce
 - **15 oz** ricotta cheese
@@ -21,7 +19,6 @@
 
 
 ## Instructions
-
 1. **Preheat Oven:**
    - Preheat your oven to 375°F (190°C).
 
